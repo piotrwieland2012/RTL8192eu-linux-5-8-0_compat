@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\core\\efuse",
+    "\\hal",
+    "\\include\\byteorder",
+    "\\include\\linux",
+    "\\os_dep\\linux",
+    "\\platform"
   ],
+  "SelectedNode": "\\hal\\rtl8192e",
   "PreviewInSolutionExplorer": false
 }

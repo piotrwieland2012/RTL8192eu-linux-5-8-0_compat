@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "zadanie-Makefile",
+      "appliesTo": "Makefile",
+      "type": "launch"
+    }
+  ]
+}
